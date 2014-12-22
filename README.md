@@ -36,9 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The honorable historie of Frier Bacon, and Frier Bongay As it was lately plaid by the Prince Palatin
+
 #####Body#####
-The honorable historie of Frier Bacon, and Frier Bongay As it was lately plaid by the Prince Palatin
+
+1. THE
+HONORABLE HISTORY
+OF FRYER BACON.
+
 **Types of content**
 
   * There are 1709 **verse** lines!
